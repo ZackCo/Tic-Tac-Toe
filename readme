@@ -1,0 +1,4 @@
+A simple implementation of Tic Tac Toe that should work on any browser.
+
+Notes:
+- Javascript is minified for a quicker download. The source is also included.
